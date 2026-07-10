@@ -11,8 +11,8 @@ language: English (canonical)
 localized_outputs: Supported
 created: 2026-07-10
 updated: 2026-07-10
-created_time: 17:30:00
-updated_time: 17:35:00
+created_time: 17:30
+updated_time: 17:35
 review_cycle: Major Releases
 depends_on: []
 required_by:
